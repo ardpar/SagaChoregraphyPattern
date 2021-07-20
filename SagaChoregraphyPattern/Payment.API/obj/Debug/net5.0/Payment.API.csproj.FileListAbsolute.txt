@@ -38,3 +38,5 @@ C:\Users\arda\Documents\GitHub\SagaChoregraphyPattern\SagaChoregraphyPattern\Pay
 C:\Users\arda\Documents\GitHub\SagaChoregraphyPattern\SagaChoregraphyPattern\Payment.API\obj\Debug\net5.0\ref\Payment.API.dll
 C:\Users\arda\Documents\GitHub\SagaChoregraphyPattern\SagaChoregraphyPattern\Payment.API\obj\Debug\net5.0\Payment.API.pdb
 C:\Users\arda\Documents\GitHub\SagaChoregraphyPattern\SagaChoregraphyPattern\Payment.API\obj\Debug\net5.0\Payment.API.genruntimeconfig.cache
+C:\Users\arda\Documents\GitHub\SagaChoregraphyPattern\SagaChoregraphyPattern\Payment.API\bin\Debug\net5.0\Shared.dll
+C:\Users\arda\Documents\GitHub\SagaChoregraphyPattern\SagaChoregraphyPattern\Payment.API\bin\Debug\net5.0\Shared.pdb

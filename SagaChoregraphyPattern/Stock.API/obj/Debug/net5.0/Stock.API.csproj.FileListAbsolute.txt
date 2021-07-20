@@ -38,3 +38,5 @@ C:\Users\arda\Documents\GitHub\SagaChoregraphyPattern\SagaChoregraphyPattern\Sto
 C:\Users\arda\Documents\GitHub\SagaChoregraphyPattern\SagaChoregraphyPattern\Stock.API\obj\Debug\net5.0\ref\Stock.API.dll
 C:\Users\arda\Documents\GitHub\SagaChoregraphyPattern\SagaChoregraphyPattern\Stock.API\obj\Debug\net5.0\Stock.API.pdb
 C:\Users\arda\Documents\GitHub\SagaChoregraphyPattern\SagaChoregraphyPattern\Stock.API\obj\Debug\net5.0\Stock.API.genruntimeconfig.cache
+C:\Users\arda\Documents\GitHub\SagaChoregraphyPattern\SagaChoregraphyPattern\Stock.API\bin\Debug\net5.0\Shared.dll
+C:\Users\arda\Documents\GitHub\SagaChoregraphyPattern\SagaChoregraphyPattern\Stock.API\bin\Debug\net5.0\Shared.pdb
